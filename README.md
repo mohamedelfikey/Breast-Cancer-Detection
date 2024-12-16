@@ -48,44 +48,6 @@ The following machine learning models were implemented, and their performance wa
 
 ---
 
-## Project Structure
-```
-Breast_Cancer_Detection/
-├── data/                         # Dataset files
-├── models/                       # Saved models (optional)
-├── notebooks/                    # Jupyter Notebooks for experiments
-├── src/                          # Python scripts for preprocessing, training, and evaluation
-├── README.md                     # Project documentation
-└── requirements.txt              # Python dependencies
-```
-
----
-
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/breast-cancer-detection.git
-   cd breast-cancer-detection
-   ```
-
-2. Install the dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-   - Open the relevant `.ipynb` file to train and test the models.
-
-4. Dataset:
-   - Place the dataset file (CSV format) into the `data/` directory.
-   - Update the file path in the notebook if necessary.
-
----
-
 ## Results
 The project highlights the importance of recall in detecting malignant tumors to minimize false negatives. Support Vector Machine emerged as the best-performing model.
 
@@ -98,14 +60,7 @@ The project highlights the importance of recall in detecting malignant tumors to
 
 ---
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Author
-- **Mohamed Ahmed** - [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+- **Mohamed Ahmed** - [LinkedIn](https://www.linkedin.com/in/mohamed-elfikey/) | [GitHub](https://github.com/mohamedelfikey)
 
----
-
-Feel free to contribute or provide suggestions to improve this project!
